@@ -1,5 +1,7 @@
-const cowsay = require('cowsay');
+const cowsay = require("cowsay");
 
-console.log(cowsay.say({
-    text: 'oh hi!'
-}));
+console.log(
+  cowsay.say({
+    text: "helloooooo!",
+  })
+);
